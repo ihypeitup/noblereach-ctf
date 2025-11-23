@@ -57,6 +57,7 @@ RazorHack creates custom interactive experiences for sponsors, combining cyberse
 **Interested in a custom challenge for your organization?** This example showcases our capabilities in building:
 - Interactive CTF challenges
 - Brand engagement experiences
+- Interact Directly with talent assessing hard skills and soft skills
 - Lead generation tools
 - Educational cybersecurity content
 
